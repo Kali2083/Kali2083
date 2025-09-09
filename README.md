@@ -90,105 +90,50 @@ Soy un **líder detallista** que combina maestría técnica y creatividad en bra
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-### 🎯 **1. Generador de Propuestas Modulares**
+### 🎯 **1. Agente Autónomo de Inteligencia Comercial con Aprendizaje Activo**
 ```yaml
-Descripción: Sistema automatizado de propuestas PDF
-Tecnologías: Python, ReportLab, CRM Integration
+Descripción: Sistema de IA que escucha conversaciones en tiempo real
+Canales: WhatsApp, Instagram - integración completa
 Características:
-  - Plantillas icon-driven reutilizables
-  - Secciones modulares: "Acerca de", "Servicios", "Testimonios", "Precios"
-  - Tracking automático de apertura y respuesta
+  - NLP + embeddings semánticos para extracción de insights
+  - Aprendizaje activo incremental que mejora automáticamente
+  - Reportes automáticos con visualizaciones interactivas
+  - Base de datos escalable con Supabase + PostgREST
+Stack: n8n, LangChain, Scikit-learn/PyTorch, Supabase, Metabase
 ```
 
-### 🔄 **2. Automatización SyncAI**
+### 🔮 **2. Digital Twin Predictivo para Negocios de Retail**
 ```yaml
-Descripción: Orquestación completa de flujos de trabajo
-Tecnologías: n8n, Google Sheets, Slack, Mailgun
+Descripción: Gemelo digital que combina automatización + ML predictivo
+Funcionalidad: Simulación en tiempo real del negocio completo
 Características:
-  - Validaciones dinámicas y manejo avanzado de errores
-  - Dashboard en tiempo real con Vite y Chart.js
-  - Integración multi-plataforma seamless
+  - Forecasting con LSTM/Prophet para demanda futura
+  - Automatización de decisiones comerciales inteligentes
+  - Alertas predictivas a proveedores y marketing dinámico
+  - APIs automáticas con PostgREST para integración seamless
+Stack: n8n, Prophet/TensorFlow, Supabase, PostgREST, APIs de proveedores
 ```
 
-### 📧 **3. SyncAI Outreach Templates**
+### 🛡️ **3. Sistema Autónomo de Detección de Fraude y Anomalías**
 ```yaml
-Descripción: Sistema de correos consultivos automatizados
-Tecnologías: Variables dinámicas, Behavioral triggers
+Descripción: Vigilancia inteligente de interacciones en tiempo real
+Seguridad: Detección de fraudes, estafas y comportamientos tóxicos
 Características:
-  - Segmentación por industria
-  - A/B testing integrado
-  - Análisis de conversión y engagement
+  - Análisis de conversaciones con ML avanzado
+  - Clasificación automática de riesgos y amenazas
+  - Logs en tiempo real con PostgreSQL para análisis histórico
+  - Sistema de alertas multi-canal para equipos
+Stack: n8n, Supabase, Isolation Forest, Autoencoders, LLM fine-tuned
 ```
 
 ---
 
-## 📂 Repositorios Destacados
 
-<div align="center">
-  
-  <a href="https://github.com/gabriel-caraballo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-caraballo&repo=automation-workflows&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=EC4899&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/gabriel-caraballo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-caraballo&repo=modular-proposal-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=EC4899&text_color=ffffff" />
-  </a>
-  
-</div>
 
-<div align="center">
-  
-  <a href="https://github.com/gabriel-caraballo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-caraballo&repo=syncai-outreach-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=EC4899&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/gabriel-caraballo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-caraballo&repo=ai-ml-models&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=EC4899&text_color=ffffff" />
-  </a>
-  
-</div>
 
-<div align="center">
-  
-  ### 🔍 [Ver Todos los Repositorios →](https://github.com/gabriel-caraballo?tab=repositories)
-  
-</div>
 
----
 
-## 📊 Métricas de Impacto
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabriel-caraballo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=EC4899&text_color=ffffff&ring_color=22C55E&custom_title=Gabriel's%20GitHub%20Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-caraballo&theme=tokyonight&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=EC4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22C55E&sideLabels=22C55E&dates=ffffff" />
-
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-caraballo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=ffffff&hide=html,css" />
-  
-</div>
-
----
-
-## 🏅 Especialización & Logros
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=gabriel-caraballo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
-
-</div>
-
----
-
-## 📈 Flujo de Contribuciones
-
-<div align="center">
-  
-[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-caraballo&bg_color=0d1117&color=22c55e&line=ec4899&point=ffffff&area=true&hide_border=true&custom_title=Automation%20%26%20Development%20Journey)](https://github.com/gabriel-caraballo)
-
-</div>
 
 ---
 
@@ -213,7 +158,5 @@ Características:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
   
   **Transformando procesos complejos en soluciones elegantes** ⚡
-  
-  ![Snake animation](https://github.com/gabriel-caraballo/gabriel-caraballo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
